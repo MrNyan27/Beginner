@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func.main() {
+  fmt.Printf("hello, world\n")
+}
+
+C:\> cd %USERPROFILE%\go\src\hello
+C:\Users\Gopher\go\src\hello> go build
